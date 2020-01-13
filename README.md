@@ -2,10 +2,10 @@
 ClojureScript + Shadow-cljs + Electron + Reagent
 
 A mashup of
-https://github.com/ahonn/shadow-electron-starter
-https://github.com/zamansky/clojurescript-electron-oauth-test
+- https://github.com/ahonn/shadow-electron-starter
+- https://github.com/zamansky/clojurescript-electron-oauth-test
 
-and a few minor changes
+and a few minor changes.
 
 ## How to Run
 ```
