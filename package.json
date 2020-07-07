@@ -18,7 +18,7 @@
   "author": "Jeff Moore",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^4.0.4",
+    "electron": "^7.2.4",
     "shadow-cljs": "^2.8.83"
   },
   "dependencies": {
